@@ -4,6 +4,7 @@
     --primary-color: #2563EB;
     --brown-color:#92400E;
     --white-color:#F9FAFB;
+    --grey-color:#4B5563;
 }
 
 body {
@@ -56,6 +57,13 @@ button {
     color: var(--white-color);
     background-color: var(--brown-color);
     border-color: var(--white-color);
+}
+.footer {
+    background-color: var(--grey-color);
+    padding: 1rem;
+    color: var(--white-color-color);
+    font-size: 1.3rem;
+    text-align: center;
 }
 
 
