@@ -1,4 +1,4 @@
-# markSeven-pirate-speaks
+# Pirate speaks
 Pirate app converts the English language into Pirate Lingo.
 
 This fun app is made using HTML,CSS and Javascript.
